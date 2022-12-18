@@ -1,0 +1,1 @@
+draw_clear(global.Colors[COLOR.Background]);
