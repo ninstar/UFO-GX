@@ -8,7 +8,7 @@ A game originally made for the Opera GX Game Jam, you can learn more about the d
 - 9 Color palettes
 - Keyboard and touch controls
 
-[<p align="center"><img src="https://static.itch.io/images/badge-color.svg?sanitize=true" alt="AVAILABLE ON itch.io" width="40%"></p>][download]
+<p align="center"><a href="https://ninstars.itch.io/ufogx"><img src="https://static.itch.io/images/badge-color.svg?sanitize=true" alt="AVAILABLE ON itch.io" width="40%"></a></p>
 
 - **Play it directly from your web browser** on a desktop or mobile device.
 
@@ -28,7 +28,6 @@ git clone https://github.com/ninstar/UFO-GX.git
 - **Art, Code, Design & Sound** - NinStar
 - **Testing** - MeKiirochan
 
-[download]: https://ninstars.itch.io/ufogx
 [zip]: https://github.com/ninstar/UFO-GX/archive/refs/heads/main.zip
 [gamemaker]: https://gamemaker.io/
 [article]: https://ninstars.blogspot.com/2021/08/introducing-ufo-gx.html
