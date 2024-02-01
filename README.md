@@ -1,4 +1,4 @@
-[<img src="https://i.imgur.com/uDIlIy4.png" alt="UFO GX" width="100%">][article]
+[<img src="./banner.png" alt="UFO GX" width="100%">][article]
 
 A game originally made for the Opera GX Game Jam, you can learn more about the development in this [blog post][article].
 
